@@ -1,0 +1,3 @@
+com\web\screenshot\controller\ScreenShotController.class
+com\web\screenshot\service\WebSiteCrawler.class
+com\web\screenshot\WebScreenShotApplication.class
